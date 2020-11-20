@@ -1,3 +1,15 @@
+INSTRUCTIONS ( From Learn GoMyCode)
+  - Create a project using create-react-app.
+  - Create App.js file in your React app.
+  - Create profile folder (path: src/Component/Profile).
+  - Under Profile folder Create (ProfilPhoto.js / FullName.js / Address.js ) in profile folder.
+  - ProfilPhoto.js: a functional component that returns a Photo of your profile.
+  - FullName.js: a functional component that returns your full name.
+  - Address.js:  a functional component that returns your address.
+  - Importe profile components into App.js and use them.
+  - Feel free to style your app as you wish.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
